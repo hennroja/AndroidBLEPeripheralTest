@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PeripheralBluetooth</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">Your Device does not Support Bluetooth Low Energy</string>
+
+</resources>
